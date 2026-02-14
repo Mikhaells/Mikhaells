@@ -81,6 +81,4 @@ This profile was enhanced through an interesting journey:
 <p align="center">
   <i>Thanks for stopping by! Feel free to check out my repositories or get in touch! ✨</i>
 </p>
-
----
-*Profile README created with ❤️ and AI assistance*
+ 
