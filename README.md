@@ -56,31 +56,6 @@ I'm a passionate **Full Stack Developer** who loves creating digital solutions a
 
 </div>
 
-## 🌟 Featured Repositories
-
-### [Repository 1](https://github.com/Mikhaells/repo-name)
-> Brief description of your repository
-![Repo 1 Language](https://img.shields.io/github/languages/top/Mikhaells/repo-name?color=blue)
-![Stars](https://img.shields.io/github/stars/Mikhaells/repo-name?style=social)
-
-### [Repository 2](https://github.com/Mikhaells/repo-name)
-> Brief description of your repository
-![Repo 2 Language](https://img.shields.io/github/languages/top/Mikhaells/repo-name?color=green)
-![Forks](https://img.shields.io/github/forks/Mikhaells/repo-name?style=social)
-
-### [Repository 3](https://github.com/Mikhaells/repo-name)
-> Brief description of your repository
-![Repo 3 Language](https://img.shields.io/github/languages/top/Mikhaells/repo-name?color=orange)
-![Issues](https://img.shields.io/github/issues/Mikhaells/repo-name)
-
-*Note: Replace above with your actual repositories*
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mikhaells&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="90%">
-</p>
-
 ## 🎨 Profile Enhancement Journey
 
 This profile was enhanced through an interesting journey:
@@ -104,18 +79,6 @@ This profile was enhanced through an interesting journey:
   </a>
   -->
 </p>
-
-## 💡 Quick Stats
-
-<div align="center">
-  
-![Lines of Code](https://img.shields.io/badge/From%20Hello%20World%20I've%20Written-X%20Lines%20of%20Code-blue)
-![Repositories](https://img.shields.io/badge/Repositories-XX-orange)
-![Contributions](https://img.shields.io/badge/Total%20Contributions-XXX-green)
-
-</div>
-
----
 
 <div align="center">
   
