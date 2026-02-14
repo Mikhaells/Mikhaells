@@ -45,16 +45,7 @@ I'm a passionate **Full Stack Developer** who loves creating digital solutions a
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-![Mikhael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mikhaells&show_icons=true&theme=radical&hide_border=true&count_private=true) 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Mikhaells&theme=radical&hide_border=true)
-
-</div>
-
+ 
 ## 🎨 Profile Enhancement Journey
 
 This profile was enhanced through an interesting journey:
