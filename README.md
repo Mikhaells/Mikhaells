@@ -50,8 +50,7 @@ I'm a passionate **Full Stack Developer** who loves creating digital solutions a
 
 <div align="center">
   
-![Mikhael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mikhaells&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikhaells&layout=compact&theme=radical&hide_border=true)
+![Mikhael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mikhaells&show_icons=true&theme=radical&hide_border=true&count_private=true) 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Mikhaells&theme=radical&hide_border=true)
 
 </div>
