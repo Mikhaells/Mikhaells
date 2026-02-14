@@ -56,10 +56,6 @@ I'm a passionate **Full Stack Developer** who loves creating digital solutions a
 
 </div>
 
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Mikhaells&theme=radical&no-frame=true&row=2&column=3)
-
 ## 🌟 Featured Repositories
 
 ### [Repository 1](https://github.com/Mikhaells/repo-name)
